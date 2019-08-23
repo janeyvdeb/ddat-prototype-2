@@ -1,605 +1,366 @@
 
+
+
+
+
+
+
 <!DOCTYPE html>
-<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
-<!--<![endif]-->
+<!--[if IE 8]><html class="no-js ie8 " lang="en"><![endif]-->
+<!--[if IE 9]><html class="no-js ie9 " lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js " lang="en"><!--<![endif]-->
   <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta property="og:description" content="This Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you need.">
-<meta property="og:title" content="Digital, Data and Technology Profession (DDaT) Capability Framework prototype 2">
-<meta property="og:url" content="https://www.integration.publishing.service.gov.uk/government/collections/digital-data-and-technology-profession-ddat-capability-framework-prototype-2--2">
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="GOV.UK">
-<meta name="twitter:card" content="summary">
-<meta name="description" content="This Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you need.">
-<meta name="govuk:taxon-slugs" content="work">
-<meta name="govuk:taxon-slug" content="work">
-<meta name="govuk:taxon-ids" content="d0f1e5a3-c8f4-4780-8678-994f19104b21">
-<meta name="govuk:taxon-id" content="d0f1e5a3-c8f4-4780-8678-994f19104b21">
-<meta name="govuk:themes" content="work">
-<meta name="govuk:publishing-government" content="2015-conservative-government">
-<meta name="govuk:political-status" content="non-political">
-<meta name="govuk:analytics:organisations" content="&lt;OT1056&gt;">
-<meta name="govuk:content-has-history" content="true">
-<meta name="govuk:content-id" content="c83b77a2-e110-440d-b37c-10a29574c6f8">
-<meta name="govuk:schema-name" content="document_collection">
-<meta name="govuk:publishing-application" content="whitehall">
-<meta name="govuk:format" content="document_collection">
-<meta name="csrf-token" content="B+uOCAS7u0LuSCzseoeeCGlU32cmJIaFZNZTE+0sQMlrSe9JCqody334qfFAzFsEHldVMFjb+0UnwNwbuF2PTQ==">
-<meta name="csrf-param" content="authenticity_token">
     <meta charset="utf-8">
-    <title lang="en">
-      Digital, Data and Technology Profession (DDaT) Capability Framework prototype 2 - GOV.UK
-  </title>
-
-    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-f88b2515ce05ac27445a4889154ded4810d67298edd970fef55db3b7badf7207.css" crossorigin="anonymous" integrity="sha256-+IslFc4FrCdEWkiJFU3tSBDWcpjt2XD+9V2zt7rfcgc=">
-<!--<![endif]-->
-    <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-ie6-45653019801261ec1ba95941ae108a54bac0c2665e6782f723f02482dceda82b.css" /><![endif]-->
-    <!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-ie7-7e8b2147c67ebda8d9458978ff0426d704bb52ad5582a50fded9fdd9bf2b4e91.css" /><![endif]-->
-    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-ie8-f9e63bf0305a867d6acf4b07751ad87f573ae3387cdf5a01b86d1f04f1456a3b.css" /><![endif]-->
-    <link rel="stylesheet" media="print" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=">
-
-    <link rel="stylesheet" media="all" href="https://assets.integration.publishing.service.gov.uk/static/fonts-40d92c0fd4588ecfb6aa04c9f6200a28c6ba4be517039122455e36c261188fec.css" crossorigin="anonymous" integrity="sha256-QNksD9RYjs+2qgTJ9iAKKMa6S+UXA5EiRV42wmEYj+w=">
-    <!--[if lt IE 9]><script src="https://assets.integration.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
-
-    <link rel="shortcut icon" href="https://assets.integration.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
-    <link rel="mask-icon" href="https://assets.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
-    <link rel="apple-touch-icon" sizes="167x167" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
-    <link rel="apple-touch-icon" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
-
-    <meta name="theme-color" content="#0b0c0c">
-
+    <title>Digital, Data and Technology Profession (DDaT) Capability Framework - detailed guidance - Admin - GOV.UK</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>(function(d){d.className=d.className.replace(/^no-js\b/,'js');}(document.documentElement));</script>
+    <script src="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/govuk-admin-template-f9e3913460dacb4f3c744b2155eaafa745a19a6da556c63c453b355823e683b2.js"></script>
+        <link rel="shortcut icon" type="image/x-icon" href="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/admin/favicon-preview-70c3f7f67a328e2983d3602bfbfb7c54bda30a51a6be03aab17f31d1577527d3.png" />
 
-      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-cb26a66aeab9ab30880d880b5f6bb1f9310e09819930a730c15975731bb7a30b.css" crossorigin="anonymous" integrity="sha256-yyamauq5qzCIDYgLX2ux+TEOCYGZMKcwwVl1cxu3ows=">
-<!--<![endif]-->
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-ie6-c85f0f62aa9ca96ae590b5aa72b4eff29ce26da786fdf7b539781a3fb32c6414.css" /><script>var ieVersion = 6;</script><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-ie7-653b62c61dc5631053738d500bcad3c375be6e7279d2231ec23ea83a0d211308.css" /><script>var ieVersion = 7;</script><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-ie8-6077a0cb0e527edb2c89631c60c8fb2f51656c346ce5fdf350b3aec78ba30bce.css" /><script>var ieVersion = 8;</script><![endif]-->
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/admin-d5407a8849bb485ae7487211253d9059a0c71b8dce3f3078cd58adc70d32c187.css" crossorigin="anonymous" integrity="sha256-1UB6iEm7SFrnSHIRJT2QWaDHG43OPzB4zVitxw0ywYc=" /><!--<![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" media="screen" href="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/admin-ie7-2221d33b170528d281861132169fca2db2aa721741346efca8bdee48e361bbf3.css" /><script>var ieVersion = 7;</script><![endif]-->
+  <!--[if IE 8]><link rel="stylesheet" media="screen" href="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/admin-ie8-ca4d15afb9c17138d3362d9dbb1fc97725353277ff6ef538ae0f0be81a51a76d.css" /><script>var ieVersion = 8;</script><![endif]-->
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bvf9Bt+pHHKDp1m/Q9RuJeYodChMYBeT3AFejrCkErL/Jp+BTQnJqkcrA56iJTmCqjOflLDlqgm65X/L5syAAg==" />
 
-<link rel="stylesheet" media="print" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-print-9a2de3ce1590c8ca478a6f7edf5a2e4bad0c6291b1dd4a6e7ca85f653d9591b4.css" crossorigin="anonymous" integrity="sha256-mi3jzhWQyMpHim9+31ouS60MYpGx3UpufKhfZT2VkbQ=">
-
-
-
-    <meta property="og:image" content="https://assets.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-fec6f1ca8e39adde255bd9c632e536fbe963f1fdac2ff8cd88cb75bb6391b2e0.css" crossorigin="anonymous" integrity="sha256-/sbxyo45rd4lW9nGMuU2++lj8f2sL/jNiMt1u2ORsuA=">
-<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets.integration.publishing.service.gov.uk/government-frontend/print-899da42545e91dd18bfb8ed981410a6e1143a4faec22932ac19bc86208eb3751.css" crossorigin="anonymous" integrity="sha256-iZ2kJUXpHdGL+47ZgUEKbhFDpPrsIpMqwZvIYgjrN1E=">
-<link rel="canonical" href="https://www.integration.publishing.service.gov.uk/government/collections/digital-data-and-technology-profession-ddat-capability-framework-prototype-2--2">
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-ie6-610b0071a006bcaac16973c2b21d87a77acc33965f92342f0fe106f4cf5a335f.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-ie7-610b0071a006bcaac16973c2b21d87a77acc33965f92342f0fe106f4cf5a335f.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-ie8-b5bd3d0e13d4ab0dbc467cc3484e8e87cf85160a0021cf5b1543c4cb77386e1f.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
-</head>
-
-  <body>
-    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
-
+    <!--[if lte IE 8]>
+      <script src="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/lte-ie8-e4787ff02900aa0c3baf120786de91ee9d0b2c6c3a516aeae1e0509f74050609.js"></script>
+    <![endif]-->
+  </head>
+  <body class="environment-preview">
     
-
-    <div id="skiplink-container">
-      <div>
-        <a href="#content" class="skiplink">Skip to main content</a>
-      </div>
-    </div>
-
-    
-<div id="global-cookie-message" class="gem-c-cookie-banner" data-module="cookie-banner" role="region" aria-label="cookie banner">
-  <div class="gem-c-cookie-banner__wrapper govuk-width-container">
-    <p class="gem-c-cookie-banner__message">GOV.UK uses cookies to make the site simpler.</p>
-    <div class="gem-c-cookie-banner__buttons">
-      <div class="gem-c-cookie-banner__button gem-c-cookie-banner__button-accept">
-        
-  <button class="gem-c-button govuk-button gem-c-button--secondary gem-c-button--inline" type="submit" data-module="track-click" data-accept-cookies="true" data-track-category="cookieBanner" data-track-action="Cookie banner accepted">Accept cookies</button>
-
-
-      </div>
-      <div class="gem-c-cookie-banner__button gem-c-cookie-banner__button-settings">
-        
-  <a class="gem-c-button govuk-button gem-c-button--secondary gem-c-button--inline" role="button" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked" href="/help/cookies">Cookie settings</a>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="gem-c-cookie-banner__confirmation govuk-width-container" tabindex="-1">
-    <p class="gem-c-cookie-banner__confirmation-message">
-      You’ve accepted all cookies. You can <a class="govuk-link" href="/help/cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked from confirmation">change your cookie settings</a> at any time.
-    </p>
-    <button class="gem-c-cookie-banner__hide-button" data-hide-cookie-banner="true" data-module="track-click" data-track-category="cookieBanner" data-track-action="Hide cookie banner">Hide</button>
-  </div>
-</div>
-
-
-    <header role="banner" id="global-header" class=" with-proposition">
-      <div class="header-wrapper">
-        <div class="header-global">
-          <div class="header-logo">
-            <a href="https://www.integration.publishing.service.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content" data-module="track-click" data-track-category="homeLinkClicked" data-track-action="homeHeader">
-              <img src="https://assets.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> GOV.UK
-            </a>
+        <header class="
+    masthead
+    navbar
+    navbar-default
+    navbar-inverse
+    navbar-static-top
+    environment-indicator
+    add-bottom-margin" role="banner">
+    <div class="navbar-container container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-toggle" data-toggle="collapse" data-target="header .navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <a class="navbar-brand" href="/government/admin">GOV.UK Whitehall</a>
+          <div class="environment-label">
+            Integration
           </div>
-            <a href="#search" class="search-toggle js-header-toggle">Search</a>
-  <form id="search" class="site-search" action="/search" method="get" role="search">
-    <div class="content">
-      <label for="site-search-text">Search</label>
-      <input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
-      <input class="submit" type="submit" value="Search">
-    </div>
-  </form>
-
+      </div>
+      <nav role="navigation" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="/government/admin">Dashboard</a></li>
+          <li><a class="open_website" href="https://www.integration.publishing.service.gov.uk">View website</a></li>
+        </ul>
+        <div class="navbar-text pull-right remove-bottom-margin">
+          <ul class="list-inline">
+              <li>
+                  <a href="https://signon.integration.publishing.service.gov.uk">Switch app</a>
+              </li>
+              <li>
+                <a id="#user_settings" href="/government/admin/users/9340">Jane Van de Ban</a>
+              </li>
+              <li>
+                <a href="/auth/gds/sign_out">Logout</a>
+              </li>
+            <li><a href="/government/admin/users">All users</a></li>
+          </ul>
         </div>
-        
-      <div class="header-proposition">
-  <div class="content">
-    <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
-  <nav id="proposition-menu" class="no-proposition-name gem-c-government-navigation">
-  <ul id="proposition-links">
-    <li>
-      <a class="" href="/government/organisations">
-        Departments
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/world">
-        Worldwide
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/how-government-works">
-        How government works
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/get-involved">
-        Get involved
-      </a>
-    </li>
-    <li class="clear-child">
-      <a class="" href="/search/policy-papers-and-consultations?content_store_document_type%5B%5D=open_consultations&amp;amp;content_store_document_type%5B%5D=closed_consultations">
-        Consultations
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/statistics">
-        Statistics
-      </a>
-    </li>
-    <li>
-      <a class="" href="/news-and-communications">
-        News and communications
-      </a>
-    </li>
-  </ul>
-</nav>
-</div>
-</div>
-</div>
-    </header>
+      </nav>
+    </div>
 
-      <div id="user-satisfaction-survey-container"></div>
-
-
-    <div id="global-header-bar"></div>
-
+    <div class="container-fluid">
+      <ul id="global-nav" class="masthead-tabs list-unstyled">
+        <li class="masthead-tab-item js-create-new create-new">
+          <a href="#new-document-menu" class="toggler" id="new-document-label">New document</a>
+          <ul class="masthead-menu list-unstyled js-hidden" id="new-document-menu" role="menu" aria-labelledby="new-document-label"><li class="masthead-menu-item"><a title="Create Consultation" role="menuitem" href="/government/admin/consultations/new">Consultation</a></li><li class="masthead-menu-item"><a title="Create Publication" role="menuitem" href="/government/admin/publications/new">Publication</a></li><li class="masthead-menu-item"><a title="Create News Article" role="menuitem" href="/government/admin/news/new">News article</a></li><li class="masthead-menu-item"><a title="Create Speech" role="menuitem" href="/government/admin/speeches/new">Speech</a></li><li class="masthead-menu-item"><a title="Create Detailed Guide" role="menuitem" href="/government/admin/detailed-guides/new">Detailed guide</a></li><li class="masthead-menu-item"><a title="Create Document Collection" role="menuitem" href="/government/admin/collections/new">Document collection</a></li><li class="masthead-menu-item"><a title="Create Fatality Notice" role="menuitem" href="/government/admin/fatalities/new">Fatality notice</a></li><li class="masthead-menu-item"><a title="Create Case Study" role="menuitem" href="/government/admin/case-studies/new">Case study</a></li><li class="masthead-menu-item"><a title="Create Statistical Data Set" role="menuitem" href="/government/admin/statistical-data-sets/new">Statistical data set</a></li></ul>
+        </li>
+        <li class="masthead-tab-item "><a href="/government/admin/editions">Documents</a></li>
+        <li class="masthead-tab-item "><a href="/government/admin/statistics_announcements">Statistics announcements</a></li>
+        <li class="masthead-tab-item "><a href="/government/admin/organisations/government-digital-service/features">Featured documents</a></li>
+        <li class="masthead-tab-item "><a href="/government/admin/organisations/government-digital-service/corporate_information_pages">Corporate information</a></li>
+        <li class="js-more-nav masthead-tab-item">
+          <a href="#more-links-menu" id="more-links-label" class="toggler">More</a>
+          <ul id="more-links-menu" class="masthead-menu masthead-menu-right js-hidden unstyled" role="menu" aria-labelledby="more-links-label">
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/organisations">Departments &amp; agencies</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/groups">Groups</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/roles">Roles</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/people">People</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/topics">Policy Areas</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/topical-events">Topical events</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/worldwide_organisations">Worldwide organisations</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/world_locations">World location news</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/operational_fields">Fields of operation</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/cabinet_ministers">Cabinet ministers order</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/get-involved">Get involved</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/sitewide_settings">Sitewide settings</a></li>
+            <li class="masthead-menu-item"><a role="menuitem" href="/government/admin/governments">Governments</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <section class="notices">
       
+    </section>
+  </header>
 
-  <div id="wrapper" class="direction-ltr">
-    
+    <section class="container">
+      <main role="main">
 
-      
-<div class="gem-c-contextual-breadcrumbs">
-    
+            <div class="edition-show">
+
+  
+<div class="row" data-module="track-button-click" data-track-category="button-pressed" data-track-action="detailed-guidance-button">
+  <div class="col-md-8 edition-metadata">
+    <div class="page-header">
+  <h1>Digital, Data and Technology Profession (DDaT) Capability Framework</h1>
+  <p class="lead">This Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you need.
+</p>
+  <dl class="clearfix dl-horizontal">
+    <dt>Type of document:</dt>
+    <dd>Detailed guide</dd>
+    <dt>Status:</dt>
+    <dd>
+      Published
+    </dd>
+    <dt>Change type:</dt>
+    <dd>Major</dd>
+      <dt>Organisations:</dt>
+      <dd>Government Digital Service</dd>
+  </dl>
+</div>
 
 
-<div class="gem-c-breadcrumbs govuk-breadcrumbs " data-module="track-click">
-  <ol class="govuk-breadcrumbs__list">
-      <li class="govuk-breadcrumbs__list-item" aria-current="false">
-          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label="" data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
-      </li>
-      <li class="govuk-breadcrumbs__list-item" aria-current="false">
-          <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/work" data-track-options='{"dimension28":"2","dimension29":"Work"}' class="govuk-breadcrumbs__link" aria-current="false" href="/work">Work</a>
-      </li>
+  <div class="alert alert-danger force_published">
+    <p><strong>Warning</strong> This edition was force published and has not yet been reviewed by a second pair of eyes.</p>
+
+      <p> Please have an editor other than the original publisher review the document to clear this warning.</p>
+  </div>
+
+
+
+<section class="edition-view-edit-buttons">
+    <a class="btn btn-lg btn-primary public_version" target="_blank" href="https://www.integration.publishing.service.gov.uk/guidance/digital-data-and-technology-profession-ddat-capability-framework">View on website</a>
+
+    <form class="button_to" method="post" action="/government/admin/editions/987601/revise"><input title="Create new edition to edit" class="btn btn-default btn-lg" type="submit" value="Create new edition to edit" /><input type="hidden" name="authenticity_token" value="CxqZ29bobn7BwPXCCQXjybmypeReyS5NYrIdbkcW36+ay/tcREi7pgVMr+Po9LRu9alOWKJMk9cEVjwrEX5NHw==" /></form>
+      <a class="btn btn-default btn-lg pull-right" data-track-category="external-link-clicked" data-track-action="https://content-data.integration.publishing.service.gov.uk/metrics/guidance/digital-data-and-technology-profession-ddat-capability-framework" data-track-label="View data about page" href="https://content-data.integration.publishing.service.gov.uk/metrics/guidance/digital-data-and-technology-profession-ddat-capability-framework">View data about page</a>
+</section>
+
+
+
+
+
+<section class="taxonomy-topics" id="topic-new-taxonomy">
+  <h2>Topics (new taxonomy)
+    <a class="btn btn-default pull-right" href="/government/admin/editions/987601/tags/edit">
+        <span class="glyphicon glyphicon-edit"></span> Change topics
+</a>  </h2>
+    <div class="content content-bordered">
+        <div class="taxon-breadcrumb">
+  <ol>
+    <li>
+        Government
+    </li>
+    <li>
+        Government efficiency, transparency and accountability
+    </li>
   </ol>
 </div>
 
-
+        <div class="taxon-breadcrumb">
+  <ol>
+    <li>
+        Government
+    </li>
+    <li>
+        Government reform 
+    </li>
+  </ol>
 </div>
 
-
-    <main role="main" id="content" class="document-collection" lang="en">
-      
-<div class="govuk-grid-row">
-  <div class="govuk-grid-column-two-thirds">
-    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
-    <p class="gem-c-title__context">
-      Collection
-    </p>
-  <h1 class="gem-c-title__text gem-c-title__text--long">
-    Digital, Data and Technology Profession (DDaT) Capability Framework prototype 2
-  </h1>
+        <div class="taxon-breadcrumb">
+  <ol>
+    <li>
+        Government
+    </li>
+    <li>
+        Government technology and digital services
+    </li>
+    <li>
+        Digital transformation
+    </li>
+    <li>
+        Job roles and talent acquisition 
+    </li>
+  </ol>
 </div>
-  </div>
-  
-  <div class="govuk-grid-column-two-thirds">
-    
-  <p class="gem-c-lead-paragraph ">
-    This Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you need.
-  </p>
-
-    
-    
-  </div>
-</div>
-
-<div class="govuk-grid-row">
-  <div class="metadata-logo-wrapper">
-    <div class="govuk-grid-column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata" lang="en">
-    <div class="app-c-published-dates " lang="en">
-    Published 25 July 2019
-</div>
-
-      <div class="app-c-publisher-metadata__other">
-        <dl data-module="track-click">
-            <dt class="app-c-publisher-metadata__term">
-              From:
-            </dt>
-            <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
-                <span class="app-c-publisher-metadata__definition-sentence">
-                  <a href="/government/organisations/government-digital-service">Government Digital Service</a>
-                </span>
-            </dd>
-        </dl>
-      </div>
-  </div>
 
     </div>
-    <div class="govuk-grid-column-one-third">
+</section>
+
+
+
+<section>
+  <h2>Associations
+  </h2>
+    <div class="no-content no-content-bordered">
+      No associations
     </div>
-  </div>
-</div>
-
-
-<div class="govuk-grid-row">
-  <div class="govuk-grid-column-two-thirds">
-    
-
-      <div id="contents" class="app-c-contents-list-with-body">
-    
-      <div class="responsive-bottom-margin">
-          
-<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
-      <div class="govspeak">
-<p>This Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you would need both to do the job and to do the job at different levels. The Civil Service also uses the <a rel="external" href="https://www.gov.uk/government/publications/success-profiles">Success Profiles Framework</a> to assess applicants.</p>
-
-<p>If you are applying for a job in the Civil Service, please check your job description, where you will find information on the Framework used to assess your application.</p>
-
-<h2 id="related-content">Related content</h2>
-
-<ul>
-  <li><a rel="external" href="https://digitalpeople.blog.gov.uk/2017/03/30/building-the-first-national-framework-of-digital-data-and-technology-job-roles/">How was the DDaT Framework created?</a></li>
-  <li><a rel="external" href="https://www.civilservicejobs.service.gov.uk/csr/index.cgi">Find current job openings</a></li>
-</ul>
-
-<h2 id="job-roles">Job roles</h2>
-
-<ul>
-  <li><a rel="external" href="http://www.gov.uk/">Business analyst</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Business relationship manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Change and release manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Command and control centre manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Content designer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Content strategist</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Data architect</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Data engineer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Data scientist</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Delivery manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Development operations</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Engineer - application operations</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Engineer - end user computing</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Engineer - infrastructure operations</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Graphic designer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Incident manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Infrastructure engineer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Interaction designer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">IT service manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Network architect</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Performance analyst</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Problem manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Product manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Programme delivery manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Quality Assurance Testing (QAT) analyst</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Security architect</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Service designer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Service desk manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Service owner</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Service transition manager</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Software developer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Specialist infrastructure engineer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Technical architect</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Technical specialist architect</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Technical writer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Test engineer</a></li>
-  <li><a rel="external" href="http://www.gov.uk/">Test manager</a></li>
-  <li><a href="https://www.integration.publishing.service.gov.uk/guidance/user-researcher-prototype-2">User researcher</a></li>
-</ul>
-
-</div>
-</div>
+</section>
 
 
 
-      </div>
-      <div class="responsive-bottom-margin">
-        <div class="app-c-published-dates " lang="en">
-    Published 25 July 2019
-</div>
+  <section class="translations" id="translations">
+    <h2>
+      Translations
+    </h2>
+      <p class="no-content no-content-bordered">
+        No translations
+      </p>
+  </section>
 
-      </div>
-
-  </div>
-  </div>
-  
-<div class="govuk-grid-column-one-third">
-  
-<div class="gem-c-contextual-sidebar">
-
-    
-
-
-</div>
-
-</div>
-
-</div>
-
-
-  <div class="govuk-grid-row">
-    <div class="govuk-grid-column-two-thirds">
-        
-  <div class="gem-c-contextual-footer">
-    
-  <div class="gem-c-related-navigation">
+  <section>
+    <h2>
+      Attachments
+    </h2>
+      <p class="no-content no-content-bordered">
+        No attachments
+      </p>
+  </section>
 
 
 
-
-
-      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-dfdb4eed" data-module="gem-toggle">
-
-    <h2 id="related-nav-topics-dfdb4eed" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
-
-  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
-
-
-        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/work" data-track-options='{"dimension28":"1","dimension29":"Work"}' href="/work">Work</a></li>
-
-  </ul>
-</nav>
+    <section id="user-needs-section">
+      <h2>Associated user needs</h2>
+        <span>
+          <a title="Add/remove needs of Digital, Data and Technology Profession (DDaT) Capability Framework" class="btn btn-default" href="/government/admin/12350db0-00c9-48f4-859f-a75d742cc19a/needs">
+            <i class="glyphicon glyphicon-edit"></i> Add/remove needs
+</a>        </span>
+    </section>
 
   </div>
 
-  </div>
+  <div class="col-md-4 edition-sidebar">
+    <section>
 
 
-    </div>
-  </div>
-
-
-    </main>
-    
-<div class="gem-c-feedback gem-c-feedback--top-margin" data-module="feedback">
-  
-<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
-  <div class="gem-c-feedback__js-prompt-questions js-prompt-questions">
-    <h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
-
-    <a class="gem-c-feedback__prompt-link" data-track-category="yesNoFeedbackForm" data-track-action="ffMaybeClick" aria-expanded="false" role="button" style="display: none;" hidden="hidden" aria-hidden="true" href="/contact/govuk">
-      Maybe
-</a>
-    <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" aria-expanded="false" role="button" href="/contact/govuk">
-      Yes <span class="visually-hidden">this page is useful</span>
-</a>
-    <a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
-      No <span class="visually-hidden">this page is not useful</span>
-</a>
-    <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
-      Is there anything wrong with this page?
-</a>  </div>
-
-  <div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
-    Thank you for your feedback
-  </div>
-</div>
-
-  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
-  <a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
-
-  <div class="gem-c-feedback__grid-row gem-c-feedback__survey-container">
-    <div class="gem-c-feedback__column-two-thirds">
-      <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
-
-      <input type="hidden" name="url" value="https://www.integration.publishing.service.gov.uk/government/collections/digital-data-and-technology-profession-ddat-capability-framework-prototype-2--2">
-
-      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
-      <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
 
       
-<div class="govuk-form-group">
-    
-<label for="input-3a4154d3" class="gem-c-label govuk-label">
-  What were you doing?
-</label>
 
-
-
-
-  <input name="what_doing" class="gem-c-input govuk-input" id="input-3a4154d3" type="text" aria-describedby="feedback_explanation">
-</div>
 
       
-<div class="govuk-form-group">
-    
-<label for="input-604c7ff4" class="gem-c-label govuk-label">
-  What went wrong?
-</label>
-
-
-
-
-  <input name="what_wrong" class="gem-c-input govuk-input" id="input-604c7ff4" type="text">
-</div>
-
       
-  <button class="gem-c-button govuk-button" type="submit">Send</button>
+          <a class="btn btn-danger" href="/government/admin/editions/987601/confirm_unpublish?lock_version=1">Withdraw or unpublish</a>
+    </section>
+
+    
 
 
-    </div>
-  </div>
+      <div class="broken-links-report">
+    <section class="alert alert-info">
+      <p>Check this document for broken links. The report will take a few moments to complete.</p>
+      <form action="/government/admin/editions/987601/link_check_reports" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <input type="submit" name="commit" value="Check for broken links" class="btn btn-default add-top-margin remove-bottom-margin" data-disable-with="Check for broken links" />
 </form>
+    </section>
+</div>
 
-  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
-  <a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
 
-  <div class="gem-c-feedback__grid-row gem-c-feedback__survey-container">
-    <div class="gem-c-feedback__column-two-thirds" id="survey-wrapper">
-      <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
-
-      <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
-      <input name="email_survey_signup[survey_source]" type="hidden" value="/government/collections/digital-data-and-technology-profession-ddat-capability-framework-prototype-2--2">
-
-      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
-      <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
-
-      
-<div class="govuk-form-group">
     
-<label for="input-176fc9c0" class="gem-c-label govuk-label">
-  Email address
-</label>
+      <div class="sidebar tabbable remarks-history"><ul class="nav nav-tabs add-bottom-margin"><li class="active"><a href="#notes" data-toggle="tab">Notes <span class="badge">1</span></a></li><li><a href="#history" data-toggle="tab">History <span class="badge">2</span></a></li><li><a href="#fact_checking" data-toggle="tab">Fact checking <span class="badge">0</span></a></li></ul><div class="tab-content">
+        <section class="tab-pane active audit-trail" id="notes">
+          <h1>Notes</h1>
+          <a class="btn btn-default add-remark" href="/government/admin/editions/987601/editorial_remarks/new">Add new remark</a>
+          <h2>On this edition</h2><ul class="list-unstyled"><li class="editorial_remark" id="editorial_remark_434272">
 
-
-
-
-  <input name="email_survey_signup[email_address]" class="gem-c-input govuk-input" id="input-176fc9c0" type="email" autocomplete="email" aria-describedby="survey_explanation">
-</div>
-
-      
-  <button class="gem-c-button govuk-button" type="submit">Send me the survey</button>
-
-
-    </div>
+  <div class="image">
+    <img alt="Jane Van de Ban" src="https://secure.gravatar.com/avatar/3d77504dfb49ef40e6a4daa721651377?d=mm&amp;s=40" />
   </div>
-</form>
+  <span class="body">Force published: Only being used for testing purposes.</span> <span class="actor"><a href="/government/admin/authors/9340">Jane Van de Ban</a></span> <time class="created_at datetime" datetime="2019-08-23T15:15:45+01:00">23 August 2019  3:15pm</time>
+</li></ul>
+</section>
+        <section class="tab-pane audit-trail" id="history">
+          <div class="audit-trail-page">
+            <h1>Activity</h1>
+            
+            <ul class="list-unstyled">
+              <li class="version" id="version_4614227">
+    <a href="/government/admin/editions/987601/diff?audit_trail_entry_id=987601">[Compare with previous version]</a>
 
-</div>
-
+  <div class="image">
+    <img alt="Jane Van de Ban" src="https://secure.gravatar.com/avatar/3d77504dfb49ef40e6a4daa721651377?d=mm&amp;s=40" />
   </div>
+  <span class="action">Published</span> by <span class="actor"><a href="/government/admin/authors/9340">Jane Van de Ban</a></span> <time class="created_at datetime" datetime="2019-08-23T15:15:44+01:00">23 August 2019  3:15pm</time>
+</li><li class="version" id="version_4614226">
 
-
-    <footer class="group js-footer" id="footer" role="contentinfo">
-
-      <div class="footer-wrapper">
-            <div class="footer-categories" data-module="track-click">
-      <div class="footer-explore">
-        <h2>Prepare for Brexit</h2>
-
-        <ul>
-          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Prepare your business or organisation for the UK leaving the EU" href="/business-uk-leaving-eu">Prepare your business or organisation for Brexit</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Prepare for EU Exit if you live in the UK" href="/prepare-eu-exit">Prepare for Brexit if you live in the UK</a></li>
-        </ul>
-        <ul>
-          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Living in Europe after the UK leaves the EU" href="/uk-nationals-living-eu">Living in Europe after Brexit</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Continue to live in the UK after it leaves the EU" href="/staying-uk-eu-citizen">Continue to live in the UK after Brexit</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-categories" data-module="track-click">
-      <div class="footer-explore">
-        <h2>Services and information</h2>
-
-        <ul>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Benefits" href="/browse/benefits">Benefits</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Births, deaths, marriages and care" href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Business and self-employed" href="/browse/business">Business and self-employed</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="" href="/browse/childcare-parenting">Childcare and parenting</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Citizenship and living in the UK" href="/browse/citizenship">Citizenship and living in the UK</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Crime, justice and the law" href="/browse/justice">Crime, justice and the law</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Disabled people" href="/browse/disabilities">Disabled people</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Driving and transport" href="/browse/driving">Driving and transport</a></li>
-        </ul>
-        <ul>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Education and learning" href="/browse/education">Education and learning</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Employing people" href="/browse/employing-people">Employing people</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Environment and countryside" href="/browse/environment-countryside">Environment and countryside</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Housing and local services" href="/browse/housing-local-services">Housing and local services</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Money and tax" href="/browse/tax">Money and tax</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Passports, travel and living abroad" href="/browse/abroad">Passports, travel and living abroad</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Visas and immigration" href="/browse/visas-immigration">Visas and immigration</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Working, jobs and pensions" href="/browse/working">Working, jobs and pensions</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-inside-government">
-        <h2>Departments and policy</h2>
-
-        <ul>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="How government works" href="/government/how-government-works">How government works</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Departments" href="/government/organisations">Departments</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Worldwide" href="/world">Worldwide</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Services" href="/search/services">Services</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Guidance and regulation" href="/search/guidance-and-regulation">Guidance and regulation</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="News and communications" href="/search/news-and-communications">News and communications</a></li>
-          <!--li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Research and statistics</" href="/search/statistics">Research and statistics</a></li-->
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Policy papers and consultations" href="/search/policy-papers-and-consultations">Policy papers and consultations</a></li>
-          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Transparency and freedom of information releases" href="/search/transparency-and-freedom-of-information-releases">Transparency and freedom of information releases</a></li>
-        </ul>
-      </div>
-      <hr>
-    </div>
-
-
-        <div class="footer-meta">
-          <div class="footer-meta-inner">
-              <h2 class="visuallyhidden">Support links</h2>
-<ul>
-  <li><a href="/help">Help</a></li>
-  <li><a href="/help/cookies">Cookies</a></li>
-  <li><a href="/contact">Contact</a></li>
-  <li><a href="/help/accessibility">Accessibility</a></li>
-  <li><a href="/help/terms-conditions">Terms and conditions</a></li>
-  <li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
-  <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
+  <div class="image">
+    <img alt="Jane Van de Ban" src="https://secure.gravatar.com/avatar/3d77504dfb49ef40e6a4daa721651377?d=mm&amp;s=40" />
+  </div>
+  <span class="action">Created</span> by <span class="actor"><a href="/government/admin/authors/9340">Jane Van de Ban</a></span> <time class="created_at datetime" datetime="2019-08-23T15:14:24+01:00">23 August 2019  3:14pm</time>
 </li>
-</ul>
-
-
-
-            <div class="open-government-licence">
-              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
-                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
-            </div>
+            </ul>
+            
           </div>
+</section>
+          <section class="tab-pane fact_checking" id="fact_checking">
+            <h1>Fact checking</h1>
+            <section class="responses">
+    <p>Document doesn&#x27;t have any fact checking responses yet.</p>
+</section>
+<section class="pending">
+</section>
 
-          <div class="copyright">
-            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">© Crown copyright</a>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <div id="global-app-error" class="app-error hidden"></div>
-
-      <script src="https://assets.integration.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-c731c20e2995c576b0509d3bd776f7ab64a66b95363a3b5fae9864299ee594ed.js" crossorigin="anonymous" integrity="sha256-xzHCDimVxXawUJ0713b3q2Sma5U2OjtfrphkKZ7llO0="></script>
-<script src="https://assets.integration.publishing.service.gov.uk/static/header-footer-only-813d77a4fa1ae1d25c894a14a92f474ef47cd3423dd27f5c05f3fa95e62f3c24.js" crossorigin="anonymous" integrity="sha256-gT13pPoa4dJciUoUqS9HTvR800I90n9cBfP6leYvPCQ="></script>
-<script src="https://assets.integration.publishing.service.gov.uk/static/surveys-61e9061a16a39f1d56569e259152b609c81570e1e642c96515370852250364bb.js" crossorigin="anonymous" integrity="sha256-YekGGhajnx1WVp4lkVK2CcgVcOHmQsllFTcIUiUDZLs="></script>
+            <section class="request">
+              <h1>Send request</h1>
+              <form class="new_fact_check_request" id="new_fact_check_request" action="/government/admin/editions/987601/fact_check_requests" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yl89+2Lb+2QvyEIBBBmba/VEyR3M22N1amw0IW/pkPpbjl988HsuvOtEGCDl6MzMuV8ioTBe3u8MiBVkOYECSg==" />
+                <div class="form-group"><label class="required" for="fact_check_request_email_address">Email address<span>*</span></label><input class="form-control" type="text" name="fact_check_request[email_address]" id="fact_check_request_email_address" /></div>
+                <div class="form-group"><label for="fact_check_request_instructions">Extra instructions</label><textarea class="form-control" name="fact_check_request[instructions]" id="fact_check_request_instructions">
+</textarea></div>
+                <input type="submit" name="commit" value="Send request" class="btn btn-default" data-disable-with="Send request" />
+</form>            </section>
+</section></div></div>  </div>
+</div>
 
 
+    </div>
 
-    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
-  <script src="https://assets.integration.publishing.service.gov.uk/government-frontend/application-021a890d25a68d4443a1e9324776b8a6b582f15d2d66ad48d2852d2b8ab0b813.js" crossorigin="anonymous" integrity="sha256-AhqJDSWmjURDoekyR3a4prWC8V0tZq1I0oUtK4qwuBM="></script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.integration.publishing.service.gov.uk/government/collections/digital-data-and-technology-profession-ddat-capability-framework-prototype-2--2"},"headline":"Digital, Data and Technology Profession (DDaT) Capability Framework prototype 2","datePublished":"2019-07-25T10:01:00.000+00:00","dateModified":"2019-07-25T10:01:00.000+00:00","description":"This Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you need.","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"image":["https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png","https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png","https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"],"author":{"@type":"Organization","name":"Government Digital Service","url":"https://www.integration.publishing.service.gov.uk/government/organisations/government-digital-service"},"about":[{"@context":"http://schema.org","@type":"Thing","sameAs":"https://www.integration.publishing.service.gov.uk/work"}],"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis Framework describes job roles in the Digital, Data and Technology Profession in the Civil Service and provides details of the skills you would need both to do the job and to do the job at different levels. The Civil Service also uses the \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/success-profiles\"\u003eSuccess Profiles Framework\u003c/a\u003e to assess applicants.\u003c/p\u003e\n\n\u003cp\u003eIf you are applying for a job in the Civil Service, please check your job description, where you will find information on the Framework used to assess your application.\u003c/p\u003e\n\n\u003ch2 id=\"related-content\"\u003eRelated content\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://digitalpeople.blog.gov.uk/2017/03/30/building-the-first-national-framework-of-digital-data-and-technology-job-roles/\"\u003eHow was the DDaT Framework created?\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.civilservicejobs.service.gov.uk/csr/index.cgi\"\u003eFind current job openings\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"job-roles\"\u003eJob roles\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eBusiness analyst\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eBusiness relationship manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eChange and release manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eCommand and control centre manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eContent designer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eContent strategist\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eData architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eData engineer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eData scientist\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eDelivery manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eDevelopment operations\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eEngineer - application operations\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eEngineer - end user computing\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eEngineer - infrastructure operations\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eGraphic designer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eIncident manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eInfrastructure engineer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eInteraction designer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eIT service manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eNetwork architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003ePerformance analyst\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eProblem manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eProduct manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eProgramme delivery manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eQuality Assurance Testing (QAT) analyst\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eSecurity architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eService designer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eService desk manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eService owner\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eService transition manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eSoftware developer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eSpecialist infrastructure engineer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eTechnical architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eTechnical specialist architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eTechnical writer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eTest engineer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.gov.uk/\"\u003eTest manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.integration.publishing.service.gov.uk/guidance/user-researcher-prototype-2\"\u003eUser researcher\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e"}
-</script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Work","@id":"https://www.integration.publishing.service.gov.uk/work"}}]}
+      </main>
+      <footer class="page-footer">
+        
+        <a class="inherit" href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">&copy; Crown Copyright</a>
+      </footer>
+    </section>
+      <script src="//whitehall-admin.integration.publishing.service.gov.uk/government/assets/admin-5bc46a2af854d2c8469f064ae2ee3d232a27be5b6c217a7a5493ed4655f809b6.js"></script>
+  
+  <script>
+//<![CDATA[
+GOVUK.init(GOVUK.adminEditionShow, {});
+GOVUK.init(GOVUK.brokenLinksReport, {});
+GOVUK.init(GOVUK.adminGlobalInitialiser, {});
+
+//]]>
 </script>
-</body>
+
+        <script class="analytics">
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-26179049-6', 'integration.govuk-internal.digital');
+          ga('set', 'anonymizeIp', true);
+           GOVUKAdmin.setDimension(1, '/guidance/digital-data-and-technology-profession-ddat-capability-framework');
+ GOVUKAdmin.setDimension(2, 'detailed_guide');
+ GOVUKAdmin.setDimension(3, 'government/all');
+ GOVUKAdmin.setDimension(4, '12350db0-00c9-48f4-859f-a75d742cc19a');
+    GOVUKAdmin.setDimension(8, "government-digital-service")
+
+            ga('send', 'pageview');
+        </script>
+  </body>
 </html>
+
